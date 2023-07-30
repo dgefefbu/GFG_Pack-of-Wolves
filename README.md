@@ -1,1 +1,1 @@
-# GFG_Pack-of-Wolves
+# Project 1
